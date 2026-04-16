@@ -31,4 +31,4 @@ If you use this code, please cite the paper above.
 ## Contact
 
 Iva Ilioska — [@ivaili](https://github.com/ivaili)
-email:ii269@cam.ac.uk
+email: ii269@cam.ac.uk
