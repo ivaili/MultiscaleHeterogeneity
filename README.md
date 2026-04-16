@@ -16,7 +16,7 @@ Subject-level deviation (Z) scores are obtained from a Gaussian Process Regressi
 | --- | --- | --- | --- |
 | `connection_overlap.m` | Edge | 75,855 unique connections (390 × 390 upper triangle) | Group difference in proportion of subjects with a deviation at each edge |
 | `region_overlap.m` | Region | 390 ROIs | Group difference in AUC of the region-level overlap curve across deviation-degree thresholds (1–20) |
-| `network_overlap.m` | Network | Canonical functional networks (see `networks2.mat` / `netNames2.mat`) | Group difference in network-aggregated overlap |
+| `network_overlap.m` | Network | Canonical functional networks | Group difference in network-aggregated overlap |
 
 
 ## Requirements
