@@ -12,8 +12,7 @@ function [CorrM_norm] = mixtureModelNormalize(CorrM)
 %       CorrM_norm - matrix normalized by the fitted Gaussian (null)
 %                    component: edges expressed as how far they sit from
 %                    the noise distribution.
-%       params     - struct with the fitted Gaussian parameters and
-%                    z-scoring constants, for inspection/QC.
+
 
     N = size(CorrM, 1);
     if size(CorrM, 2) ~= N
